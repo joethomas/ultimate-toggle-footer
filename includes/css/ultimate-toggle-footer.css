@@ -1,5 +1,9 @@
 /* Subfooter Widget Area */
 
+.subfooter {
+	clear: both;
+}
+
 .home-subfooter,
 .home-subfooter *,
 .home-subfooter *:before,

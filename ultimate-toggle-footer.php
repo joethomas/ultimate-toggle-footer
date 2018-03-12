@@ -3,7 +3,7 @@
 	Plugin Name: Ultimate Toggle Footer
 	Description: This plugin allows you to insert toggle-able content at the bottom of your homepage, available for your visitors to view if they’d like. It’s great for inserting SEO content in an unobtrusive way.
 	Plugin URI: https://github.com/joethomas/ultimate-toggle-footer
-	Version: 1.0.4
+	Version: 1.0.5
 	Author: Joe Thomas
 	Author URI: https://github.com/joethomas
 	License: GNU General Public License v3.0
