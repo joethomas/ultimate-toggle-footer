@@ -14,6 +14,7 @@
 }
 
 .home-subfooter {
+	background-color: #fff;
 	padding: 0;
 }
 
@@ -135,8 +136,9 @@
 }
 
 .joe_utf-footerlinks {
-	margin: 15px 0;
+	margin: 15px 0 0;
 	padding: 0;
+	padding-bottom: 15px;
 	text-align: center;
 }
 
